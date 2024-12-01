@@ -109,14 +109,6 @@ if (!isset($_POST['password']) || $_POST['password'] !== $motDePasse) {
       <td><a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/file06.php" target="_blank">file06.php</a></td>
     </tr>
 
-    <tr>
-      <td><a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/fileXX.php" target="_blank">fileXX.php</a></td>
-    </tr>
-
-    <tr>
-      <td><a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/entry.html" target="_blank">entry.html</a></td>
-    </tr>
-
   </table>
 
 </body>
