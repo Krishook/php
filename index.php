@@ -1,3 +1,7 @@
+<head>
+    <title>php</title>
+</head>
+<body></body>
 <?php
 $motDePasse = "Itcb6971";
 if (!isset($_POST['password']) || $_POST['password'] !== $motDePasse) {
