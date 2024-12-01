@@ -1,5 +1,5 @@
 <?php
-$motDePasse = "monmotdepasse";
+$motDePasse = "Itcb6971";
 if (!isset($_POST['password']) || $_POST['password'] !== $motDePasse) {
     echo '<form method="POST">
              <label>Mot de passe : </label>
