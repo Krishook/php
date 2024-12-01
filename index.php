@@ -73,6 +73,28 @@ if (!isset($_POST['password']) || $_POST['password'] !== $motDePasse) {
     exit;
 }
 ?>
+
+<!-- Nenu Top Navigation : https://www.w3schools.com/howto/howto_js_topnav.asp -->
+<div class="topnav">
+  <a class="active" href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/index.php">Home</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/Useful-links/index.html">Useful Links</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/00.OpenClassroom/index.html">OpenClassroom</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/01.Oiseaux/index.html">Oiseaux</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/02.HarryPotter/index.html">Harry Potter</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/03.Le%20Trone%20de%20Fer/index.html">Le Trône de Fer</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/05.WWII/index.html">WWII</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/06.JavaScript/index.html">JavaScript</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/07.Pleine Conscience/index.html">Pleine Conscience</a>
+  <a href="https://my-web-sites-app-fc79c0bb9acc.herokuapp.com/08.PHP/index.php">PHP</a>
+  <a href="...">...</a>
+</div>
+
+<h1>My Web Sites</h1>
+    
+    
+    
+    
+    
 <h1>PHP</h1>
 
 <table>
