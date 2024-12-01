@@ -75,6 +75,4 @@ if (!isset($_POST['password']) || $_POST['password'] !== $motDePasse) {
 ?>
 <h1>Bienvenue sur la page protégée</h1>
 <p>Contenu sécurisé ici.</p>
-    <h1>Bienvenue sur la page protégée</h1>
-    <p>Contenu sécurisé ici.</p>
 </body>
