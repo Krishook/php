@@ -73,6 +73,50 @@ if (!isset($_POST['password']) || $_POST['password'] !== $motDePasse) {
     exit;
 }
 ?>
-<h1>Bienvenue sur la page protégée</h1>
-<p>Contenu sécurisé ici.</p>
+<h1>PHP</h1>
+
+<table>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/info.php" target="_blank">info.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/file00.php" target="_blank">file00.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/file01.php" target="_blank">file01.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/file02.php" target="_blank">file02.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/file03.php" target="_blank">file03.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/file04.php" target="_blank">file04.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/file05.php" target="_blank">file05.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/file06.php" target="_blank">file06.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/fileXX.php" target="_blank">fileXX.php</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="http://localhost:8888/04.CBO/entry.html" target="_blank">entry.html</a></td>
+    </tr>
+
+  </table>
+
 </body>
